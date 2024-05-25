@@ -1,0 +1,48 @@
+.signup{
+    display: flex;
+    background-color: rgb(178, 225, 255);
+    margin: 0%;
+    padding: 0%;
+    height: 100vh;
+    justify-content: center;
+}
+
+.form{
+    background-color: rgb(244, 246, 252);
+    border: solid 1px;
+    border-radius: 5px;
+    margin: 150px;
+    width : 500px;
+    height: fit-content;
+    justify-content: center;
+    padding: 10px;
+}
+
+.set{
+    text-align: center;
+}
+
+p{
+    margin: 0%;
+    padding: 10px;
+    font-weight: 550;
+    text-align: left;
+    padding-left: 95px;
+}
+
+.in{
+    padding: 10px 0px 0px 0px 0px;
+    margin-bottom: 10px;
+}
+
+input{
+    padding: 5px;
+    width: 300px;
+    border: solid 1px;
+    border-radius: 5px;
+}
+
+.submit{
+    padding: 20px;
+    text-align: center;
+}
